@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class stringConcatenation {
+public class StringConcatenation {
 
     public static void main(String[] args) {
         scanner();
